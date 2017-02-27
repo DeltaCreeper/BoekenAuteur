@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenData\bin\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenData\bin\Debug\BoekenData.pdb
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenData\obj\Debug\BoekenAuteursData.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenData\obj\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenData\obj\Debug\BoekenData.pdb
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenAuteursData\bin\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenAuteursData\bin\Debug\BoekenData.pdb
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenAuteursData\obj\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\ExamenCOPYCAT\BoekenAuteursApplication\BoekenAuteursData\obj\Debug\BoekenData.pdb
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenAuteursData\bin\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenAuteursData\bin\Debug\BoekenData.pdb
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenAuteursData\obj\Debug\BoekenAuteursData.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenAuteursData\obj\Debug\BoekenData.dll
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenAuteursData\obj\Debug\BoekenData.pdb

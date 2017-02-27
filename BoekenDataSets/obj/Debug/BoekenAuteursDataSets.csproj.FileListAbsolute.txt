@@ -1,0 +1,15 @@
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\bin\Debug\BoekenAuteursDataSets.exe.config
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\bin\Debug\BoekenAuteursDataSets.exe
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\bin\Debug\BoekenAuteursDataSets.pdb
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenByGenreWindow.g.cs
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\App.g.cs
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets_MarkupCompile.cache
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets_MarkupCompile.lref
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenByGenreWindow.baml
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.g.resources
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.exe
+C:\Users\Nicolas\Desktop\Examen\BoekenAuteursApplication\BoekenDataSets\obj\Debug\BoekenAuteursDataSets.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="BoekenAuteursEF.AuteurInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BoekenAuteursEF"
+        mc:Ignorable="d"
+        Title="Auteur Info" Height="386.916" Width="604.206">
+    <Grid Margin="0,0,-6.8,16">
+        <Image x:Name="auteurImage" HorizontalAlignment="Left" Height="100" Margin="420,10,0,0" VerticalAlignment="Top" Width="100" Visibility="Visible" RenderTransformOrigin="0.127,0.52"/>
+        <StackPanel Orientation="Horizontal" Margin="10,10,238.2,281">
+            <TextBlock x:Name="achternaamTextBlock" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding FirstName}"/>
+            <TextBlock FontWeight="Bold" FontSize="20" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Text=" "/>
+            <TextBlock x:Name="voornaamTextBlock" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding LastName }" />
+        </StackPanel>
+        <TextBlock x:Name="textBlock" FontWeight="Bold" TextWrapping="Wrap" Text="Biografie" Margin="36,79,391.2,222"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="153" Margin="54,119,0,0" VerticalAlignment="Top" Width="466">
+            <TextBox Text="{Binding Biography}" TextWrapping="Wrap" />
+        </ScrollViewer>
+        <Button x:Name="FavorietenButton" Content="Voeg toe aan favorieten" HorizontalAlignment="Left" Margin="234,305,0,0" VerticalAlignment="Top" Width="148" Click="FavorietenButton_Click" Height="27"/>
+
+    </Grid>
+</Window>
